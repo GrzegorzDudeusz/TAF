@@ -17,6 +17,7 @@ public class HomePageTest extends BaseTest {
     }
 // test commit 1
     // test commit 2
+    // test commit 3
 
 
     @Test(groups = {"Smoke", "Regression"})
