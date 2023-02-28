@@ -15,7 +15,7 @@ public class HomePageTest extends BaseTest {
         homePage = new HomePage(getDriver());
         homePage.openHomePage();
     }
-
+// t
     @Test(groups = {"Smoke", "Regression"})
     @Description("Verify that user can login with username and password")
     @TmsLink("QA-1")
